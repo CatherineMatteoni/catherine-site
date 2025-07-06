@@ -54,7 +54,7 @@ header p {
   box-shadow: 0 12px 25px rgba(255, 182, 193, 0.3);
   overflow: hidden;
   width: 280px;
-  height: 390px;
+  height: 410px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: pointer;
   display: flex;
